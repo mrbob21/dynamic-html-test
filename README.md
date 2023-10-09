@@ -1,2 +1,2 @@
-# dynamic-html-test
- Testing out usage of dynamic HTML
+Dynamic HTML test for Folding for Good Website
+Testing out usage of dynamic HTML using Emmet
